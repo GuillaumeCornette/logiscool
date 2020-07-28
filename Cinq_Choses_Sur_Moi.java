@@ -1,7 +1,7 @@
 public void Cinq_Choses_Sur_Moi(){
         //1
         while(true){
-            System.out.print("Je suis toujours motivé");
+            System.out.println("Je suis toujours motivé");
             break;
         }
         //2
@@ -10,7 +10,7 @@ public void Cinq_Choses_Sur_Moi(){
         }
         //3
         if (needInformation){
-           System.out.println("Je suis étudiant en Sciences Informatique, je serai en master en Cybersécurité en Septembre");
+           System.out.println("Je suis étudiant en Sciences Informatiques, je serai en master en Cybersécurité en Septembre");
         }
         //4
         if (raisonJob){
