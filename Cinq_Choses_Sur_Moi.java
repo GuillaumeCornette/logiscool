@@ -1,4 +1,9 @@
-public void Cinq_Choses_Sur_Moi(){
+
+    /**
+     * @author Guillaume Cornette
+     */
+
+    public void Cinq_Choses_Sur_Moi(){
         //1
         while(true){
             System.out.println("Je suis toujours motivé");
@@ -21,3 +26,4 @@ public void Cinq_Choses_Sur_Moi(){
             System.out.println("Je sais applaudir à une main");
         }
     }
+
